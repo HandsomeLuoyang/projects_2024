@@ -1,0 +1,104 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+
+<head>
+    <base href="http://xkz.cbirc.gov.cn:80/jr/">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>中国银行保险监督管理委员会 金融许可证信息</title>
+    <link rel="Shortcut Icon" href="image/favicon.ico" />
+    <link href="/jr/css/styleDetail.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="/jr/ext/resources/css/ext-all.css" />
+    <style type="text/css">
+        td {
+            padding-left: 5px;
+            font-size: 17px;
+        }
+    </style>
+    <script type="text/javascript">
+        var px = 'up';
+
+        function change() {
+            if (px == 'up') {
+                document.getElementById("px").src = '/jr/image/down.gif';
+                for (var i = 0; i < 4; i++) {
+                    document.getElementById("td" + i).style.display = "none";
+                }
+                px = 'down';
+            } else {
+                document.getElementById("px").src = '/jr/image/up.gif';
+                for (var i = 0; i < 4; i++) {
+                    document.getElementById("td" + i).style.display = "";
+                }
+                px = 'up';
+            }
+        }
+    </script>
+</head>
+
+<body class="trw-body">
+
+
+
+
+    <div class="log" style="background: url(image/logobg.jpg);background-repeat: repeat-x;height:85px;">
+        <div style="position:relative;width:1024px;height:85px;margin:0 auto;background: url(image/logo-jr.png);background-repeat: no-repeat;">
+
+            <div class="top_publish" id="top_publish" unselectable="on">
+
+            </div>
+        </div>
+    </div>
+
+    <div style="margin-top: 10px; margin-bottom: 10px;">
+        <table width="1024" border="0" align="center" cellpadding="0" cellspacing="0" class="trw-table-s1">
+
+            <tr class="a1">
+                <th colspan="2" align="center">
+                    <div class="tdpt">
+                        <img src="/jr/image/icon.gif" width="24" height="24">
+                    </div>
+                    <div class="tdtit">
+                        <font color="#454BBA"><b>机构详细信息</b> </font>
+                    </div>
+                </th>
+            </tr>
+
+            <tr style="height: 1px">
+                <td colspan="2">
+                    &nbsp;
+                </td>
+            </tr>
+
+            <!-- <tr class="a0">
+                                        <td colspan="2" align="center" height="25">
+                                                <input type="button" name="close" value="关 闭"
+                                                        onclick="window.close()" class="trw-form-btn1">
+                                        </td>
+                                </tr> -->
+
+        </table>
+    </div>
+
+    <div class="searchblock" id="bottom1" style="border-top: 1px;" align="center">
+        <div style="width:1024px;margin:0 auto;" align="left">
+            注：本系统中所称“发证日期”是监管部门对金融机构颁（换）发许可证的制证日期；“批准成立日期”为监管部门批准该机构设立的日期，金融机构自此具有开展金融业务的一般资质，其他具体新增业务以 监管部门的相关文件为准。
+            <span id="bot_lz0" style="display:inline;">另注红色流水号为失控证，正在补办中；机构编码为红色的，其许可证被银监会发证机关暂扣。</span>
+            <span id="bot_lz1" style="display:none;">另注此数据为近期一年机构设立情况。</span>
+            <span id="bot_lz2" style="display:none;">另注此数据为近期二年机构退出列表。</span>
+        </div>
+    </div>
+    <div class="searchblock" id="bottom2" style="border-top: 1px;display: none;" align="center">
+        <div style="width:1024px;margin:0 auto;" align="left">
+            注：与此表流水号相符金融许可证已失控，已被监管部门确定为无效证，特此向社会公告。
+        </div>
+    </div>
+    <script type="text/javascript">
+        for (var i = 0; i < 3; i++) {
+            document.getElementById("bot_lz" + i).style.display = 'none';
+        }
+        document.getElementById("bottom1").style.display = 'block';
+        document.getElementById("bottom2").style.display = 'none';
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,25 @@
+{"name": "肖申克的救赎", "info": "导演: 弗兰克·德拉邦特 Frank Darabont   主演: 蒂姆·罗宾斯 Tim Robbins /...\n                            1994 / 美国 / 犯罪 剧情", "brief_introduction": "希望让人自由。"}
+{"name": "霸王别姬", "info": "导演: 陈凯歌 Kaige Chen   主演: 张国荣 Leslie Cheung / 张丰毅 Fengyi Zha...\n                            1993 / 中国大陆 中国香港 / 剧情 爱情 同性", "brief_introduction": "风华绝代。"}
+{"name": "阿甘正传", "info": "导演: 罗伯特·泽米吉斯 Robert Zemeckis   主演: 汤姆·汉克斯 Tom Hanks / ...\n                            1994 / 美国 / 剧情 爱情", "brief_introduction": "一部美国近现代史。"}
+{"name": "这个杀手不太冷", "info": "导演: 吕克·贝松 Luc Besson   主演: 让·雷诺 Jean Reno / 娜塔莉·波特曼 ...\n                            1994 / 法国 / 剧情 动作 犯罪", "brief_introduction": "怪蜀黍和小萝莉不得不说的故事。"}
+{"name": "美丽人生", "info": "导演: 罗伯托·贝尼尼 Roberto Benigni   主演: 罗伯托·贝尼尼 Roberto Beni...\n                            1997 / 意大利 / 剧情 喜剧 爱情 战争", "brief_introduction": "最美的谎言。"}
+{"name": "泰坦尼克号", "info": "导演: 詹姆斯·卡梅隆 James Cameron   主演: 莱昂纳多·迪卡普里奥 Leonardo...\n                            1997 / 美国 / 剧情 爱情 灾难", "brief_introduction": "失去的才是永恒的。"}
+{"name": "千与千寻", "info": "导演: 宫崎骏 Hayao Miyazaki   主演: 柊瑠美 Rumi Hîragi / 入野自由 Miy...\n                            2001 / 日本 / 剧情 动画 奇幻", "brief_introduction": "最好的宫崎骏，最好的久石让。"}
+{"name": "辛德勒的名单", "info": "导演: 史蒂文·斯皮尔伯格 Steven Spielberg   主演: 连姆·尼森 Liam Neeson...\n                            1993 / 美国 / 剧情 历史 战争", "brief_introduction": "拯救一个人，就是拯救整个世界。"}
+{"name": "盗梦空间", "info": "导演: 克里斯托弗·诺兰 Christopher Nolan   主演: 莱昂纳多·迪卡普里奥 Le...\n                            2010 / 美国 英国 / 剧情 科幻 悬疑 冒险", "brief_introduction": "诺兰给了我们一场无法盗取的梦。"}
+{"name": "忠犬八公的故事", "info": "导演: 莱塞·霍尔斯道姆 Lasse Hallström   主演: 理查·基尔 Richard Ger...\n                            2009 / 美国 英国 / 剧情", "brief_introduction": "永远都不能忘记你所爱的人。"}
+{"name": "海上钢琴师", "info": "导演: 朱塞佩·托纳多雷 Giuseppe Tornatore   主演: 蒂姆·罗斯 Tim Roth / ...\n                            1998 / 意大利 / 剧情 音乐", "brief_introduction": "每个人都要走一条自己坚定了的路，就算是粉身碎骨。"}
+{"name": "机器人总动员", "info": "导演: 安德鲁·斯坦顿 Andrew Stanton   主演: 本·贝尔特 Ben Burtt / 艾丽...\n                            2008 / 美国 / 科幻 动画 冒险", "brief_introduction": "小瓦力，大人生。"}
+{"name": "三傻大闹宝莱坞", "info": "导演: 拉库马·希拉尼 Rajkumar Hirani   主演: 阿米尔·汗 Aamir Khan / 卡...\n                            2009 / 印度 / 剧情 喜剧 爱情 歌舞", "brief_introduction": "英俊版憨豆，高情商版谢耳朵。"}
+{"name": "楚门的世界", "info": "导演: 彼得·威尔 Peter Weir   主演: 金·凯瑞 Jim Carrey / 劳拉·琳妮 Lau...\n                            1998 / 美国 / 剧情 科幻", "brief_introduction": "如果再也不能见到你，祝你早安，午安，晚安。"}
+{"name": "放牛班的春天", "info": "导演: 克里斯托夫·巴拉蒂 Christophe Barratier   主演: 热拉尔·朱尼奥 Gé...\n                            2004 / 法国 瑞士 德国 / 剧情 音乐", "brief_introduction": "天籁一般的童声，是最接近上帝的存在。"}
+{"name": "星际穿越", "info": "导演: 克里斯托弗·诺兰 Christopher Nolan   主演: 马修·麦康纳 Matthew Mc...\n                            2014 / 美国 英国 加拿大 冰岛 / 剧情 科幻 冒险", "brief_introduction": "爱是一种力量，让我们超越时空感知它的存在。"}
+{"name": "大话西游之大圣娶亲", "info": "导演: 刘镇伟 Jeffrey Lau   主演: 周星驰 Stephen Chow / 吴孟达 Man Tat Ng...\n                            1995 / 中国香港 中国大陆 / 喜剧 爱情 奇幻 古装", "brief_introduction": "一生所爱。"}
+{"name": "熔炉", "info": "导演: 黄东赫 Dong-hyuk Hwang   主演: 孔侑 Yoo Gong / 郑有美 Yu-mi Jeong ...\n                            2011 / 韩国 / 剧情", "brief_introduction": "我们一路奋战不是为了改变世界，而是为了不让世界改变我们。"}
+{"name": "疯狂动物城", "info": "导演: 拜伦·霍华德 Byron Howard / 瑞奇·摩尔 Rich Moore   主演: 金妮弗·...\n                            2016 / 美国 / 喜剧 动画 冒险", "brief_introduction": "迪士尼给我们营造的乌托邦就是这样，永远善良勇敢，永远出乎意料。"}
+{"name": "龙猫", "info": "导演: 宫崎骏 Hayao Miyazaki   主演: 日高法子 Noriko Hidaka / 坂本千夏 Ch...\n                            1988 / 日本 / 动画 奇幻 冒险", "brief_introduction": "人人心中都有个龙猫，童年就永远不会消失。"}
+{"name": "无间道", "info": "导演: 刘伟强 / 麦兆辉   主演: 刘德华 / 梁朝伟 / 黄秋生\n                            2002 / 中国香港 / 剧情 犯罪 悬疑", "brief_introduction": "香港电影史上永不过时的杰作。"}
+{"name": "教父", "info": "导演: 弗朗西斯·福特·科波拉 Francis Ford Coppola   主演: 马龙·白兰度 M...\n                            1972 / 美国 / 剧情 犯罪", "brief_introduction": "千万不要记恨你的对手，这样会让你失去理智。"}
+{"name": "当幸福来敲门", "info": "导演: 加布里尔·穆奇诺 Gabriele Muccino   主演: 威尔·史密斯 Will Smith ...\n                            2006 / 美国 / 剧情 传记 家庭", "brief_introduction": "平民励志片。"}
+{"name": "怦然心动", "info": "导演: 罗伯·莱纳 Rob Reiner   主演: 玛德琳·卡罗尔 Madeline Carroll / 卡...\n                            2010 / 美国 / 剧情 喜剧 爱情", "brief_introduction": "真正的幸福是来自内心深处。"}
+{"name": "触不可及", "info": "导演: 奥利维·那卡什 Olivier Nakache / 艾力克·托兰达 Eric Toledano   主...\n                            2011 / 法国 / 剧情 喜剧", "brief_introduction": "满满温情的高雅喜剧。"}

@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="136ccd7a-f640-4eeb-932b-0c087fcc2d7e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aRplLnhwklzP4aT9iRbZ698MEe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.筛选功能">
+    <configuration name="列表页爬取" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="58同城" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/列表页爬取.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="筛选功能" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="58同城" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/筛选功能.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="58同城" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.8" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="筛选功能" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="58同城" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/筛选功能.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="data_handle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="58同城" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_handle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.列表页爬取" />
+      <item itemvalue="Python.data_handle" />
+      <item itemvalue="Python.筛选功能" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.筛选功能" />
+        <item itemvalue="Python.data_handle" />
+        <item itemvalue="Python.列表页爬取" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="136ccd7a-f640-4eeb-932b-0c087fcc2d7e" name="Default Changelist" comment="" />
+      <created>1586708410536</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586708410536</updated>
+      <workItem from="1586708438072" duration="13005000" />
+      <workItem from="1586764820908" duration="6784000" />
+      <workItem from="1586928111289" duration="7327000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="262" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586708721291">
+      <screen x="0" y="23" width="1600" height="821" />
+    </state>
+    <state x="262" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1600.821@0.23.1600.821" timestamp="1586708721291" />
+    <state x="572" y="181" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586768954620">
+      <screen x="0" y="23" width="1600" height="821" />
+    </state>
+    <state x="572" y="181" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1600.821@0.23.1600.821" timestamp="1586768954620" />
+    <state width="1558" height="202" key="GridCell.Tab.0.bottom" timestamp="1586944482563">
+      <screen x="0" y="23" width="1600" height="821" />
+    </state>
+    <state width="1558" height="202" key="GridCell.Tab.0.bottom/0.23.1600.821@0.23.1600.821" timestamp="1586944482563" />
+    <state width="1558" height="202" key="GridCell.Tab.0.center" timestamp="1586944482562">
+      <screen x="0" y="23" width="1600" height="821" />
+    </state>
+    <state width="1558" height="202" key="GridCell.Tab.0.center/0.23.1600.821@0.23.1600.821" timestamp="1586944482562" />
+    <state width="1558" height="202" key="GridCell.Tab.0.left" timestamp="1586944482561">
+      <screen x="0" y="23" width="1600" height="821" />
+    </state>
+    <state width="1558" height="202" key="GridCell.Tab.0.left/0.23.1600.821@0.23.1600.821" timestamp="1586944482561" />
+    <state width="1558" height="202" key="GridCell.Tab.0.right" timestamp="1586944482563">
+      <screen x="0" y="23" width="1600" height="821" />
+    </state>
+    <state width="1558" height="202" key="GridCell.Tab.0.right/0.23.1600.821@0.23.1600.821" timestamp="1586944482563" />
+    <state width="1358" height="247" key="GridCell.Tab.1.bottom" timestamp="1586763778375">
+      <screen x="0" y="23" width="1600" height="821" />
+    </state>
+    <state width="1358" height="247" key="GridCell.Tab.1.bottom/0.23.1600.821@0.23.1600.821" timestamp="1586763778375" />
+    <state width="1358" height="247" key="GridCell.Tab.1.center" timestamp="1586763778375">
+      <screen x="0" y="23" width="1600" height="821" />
+    </state>
+    <state width="1358" height="247" key="GridCell.Tab.1.center/0.23.1600.821@0.23.1600.821" timestamp="1586763778375" />
+    <state width="1358" height="247" key="GridCell.Tab.1.left" timestamp="1586763778375">
+      <screen x="0" y="23" width="1600" height="821" />
+    </state>
+    <state width="1358" height="247" key="GridCell.Tab.1.left/0.23.1600.821@0.23.1600.821" timestamp="1586763778375" />
+    <state width="1358" height="247" key="GridCell.Tab.1.right" timestamp="1586763778375">
+      <screen x="0" y="23" width="1600" height="821" />
+    </state>
+    <state width="1358" height="247" key="GridCell.Tab.1.right/0.23.1600.821@0.23.1600.821" timestamp="1586763778375" />
+    <state x="271" y="62" key="SettingsEditor" timestamp="1586745065707">
+      <screen x="0" y="23" width="1600" height="821" />
+    </state>
+    <state x="271" y="62" key="SettingsEditor/0.23.1600.821@0.23.1600.821" timestamp="1586745065707" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/58$data_handle.coverage" NAME="data_handle Coverage Results" MODIFIED="1586768944352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/58$.coverage" NAME="筛选功能 Coverage Results" MODIFIED="1586942796603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
